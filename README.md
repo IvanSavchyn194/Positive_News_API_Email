@@ -1,2 +1,3 @@
 # What is this project?
-This app accesses news about a particular topic and sends them by email.
+## A website that gets data from a news API and uses sentiment analysis to publish only positive news.
+### The following libraries are used in the project: OS, requests, nltk, smtplib, ssl.
